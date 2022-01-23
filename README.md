@@ -1,7 +1,6 @@
-- Hello I'm st3v24
-Just lurking around github, wondering what I can do
-Nice to meet everyone
-Ciao
+- Hello I'm st3v24.
+Just lurking around github, exploring what I can do
+
 
 <!---
 st3v24/st3v24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
